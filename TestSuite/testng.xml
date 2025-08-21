@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+<listeners>
+    <listener class-name="TestComponent.Listeners"></listener>
+</listeners>
+
+    <test thread-count="5" name="Submit Order Test">
+        <classes>
+
+            <class name="ReqPackage.Tests.SubmitOrderTest"/>
+
+        </classes>
+
+          </test>
+    <test thread-count="5" name="Error Validation Test">
+        <classes>
+            <class name="ReqPackage.Tests.ErrorValidations"/>
+        </classes>
+
+    </test>
+</suite>

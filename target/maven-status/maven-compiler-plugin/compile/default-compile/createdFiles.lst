@@ -1,0 +1,8 @@
+E2ETesting/pageobjects/ConfirmationPage.class
+E2ETesting/AbstractComponents/AbstractComponent.class
+E2ETesting/pageobjects/OrderPage.class
+E2ETesting/resources/ExtentReporterNG.class
+E2ETesting/pageobjects/CartPage.class
+E2ETesting/pageobjects/ProductCatalog.class
+E2ETesting/pageobjects/CheckoutPage.class
+E2ETesting/pageobjects/LandingPage.class
