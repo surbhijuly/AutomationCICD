@@ -18,6 +18,7 @@ public class StandaloneTest
 
 public static void main(String[] args)
 {
+//adding for cicd test2
 
    // WebDriverManager.chromedriver().setup();
     String nameI = "ZARA COAT 3";
